@@ -7,8 +7,7 @@ Toggle maintenance mode and customize the maintenance screen.
 
 == Description ==
 
-WP Site Maintenance is a WordPress plugin that enables you to toggle maintenance mode and customize the maintenance screen.
-Administrators retain full access to the site during maintenance.
+WP Site Maintenance is a WordPress plugin that enables you to toggle maintenance mode and customize the maintenance screen. Administrators retain full access to the site during maintenance.
 
 Usage:
 - To activate maintenance mode, just set `WPSITEMAINT_IN_MAINTENANCE` to true in your wp-config.php file.
