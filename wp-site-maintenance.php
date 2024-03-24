@@ -10,6 +10,7 @@
  * License URI: https://opensource.org/licenses/BSD-3-Clause
  * Text Domain: wp-site-maintenance
  * Domain Path: /languages
+ * Update URI: false
  *
  * @package WP Site Maintenance
  */
